@@ -1,5 +1,5 @@
 name: blog
-title: Vladimir Izmalkov's professional blog
+title: Professional blog
 version: 0.1
 start_page: ROOT:index.adoc
 asciidoc:
