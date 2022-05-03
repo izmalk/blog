@@ -1,6 +1,6 @@
 name: blog
 title: Vladimir Izmalkov's professional blog
-version: 0.1
+#version: 0.1
 start_page: index.adoc
 asciidoc:
   attributes:
